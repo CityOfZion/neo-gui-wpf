@@ -46,3 +46,4 @@ then copy `libleveldb.dll` to the working directory (i.e. /bin/Debug, /bin/Relea
 ## License
 
 - Open-source [MIT](https://github.com/CityOfZion/neo-gui-wpf/blob/master/LICENSE).
+
